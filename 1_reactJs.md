@@ -5,7 +5,7 @@
 1. Javascript 기반 UI 라이브러리
 2. Composition
 3. Unidirectional Dataflow
-	- 데이터가 UI를 변경시킴 (Data --- update ---> UI)
+	- 데이터가 UI를 변경시킴 (Data --- update ---> Change UI)
 	
 ---
 ## create-react-app
@@ -25,6 +25,8 @@
 
 ### 
 Component --- render --- return --- JSX
+## JSX
+> 
 
 ---
 ## React의 두 가지 컨셉
@@ -43,5 +45,7 @@ Component --- render --- return --- JSX
 - `Javascript`의 새로운 컨셉
 - 비동기 작업을 위한 Object
 
+---
+## Await, Asynch
 
 
