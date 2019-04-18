@@ -32,3 +32,16 @@ Component --- render --- return --- JSX
 
 
 ### 2. props
+
+---
+## AJAX
+> Ajax(Asynchronous JavaScript and XML, 에이잭스)는 비동기적인 웹 애플리케이션의 제작을 위해 아래와 같은 조합을 이용하는 웹 개발 기법이다.
+- 요즘은 `XML`보다 `JSON`을 많이 활용함
+
+---
+## Promise
+- `Javascript`의 새로운 컨셉
+- 비동기 작업을 위한 Object
+
+
+
